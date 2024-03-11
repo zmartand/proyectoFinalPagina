@@ -1,10 +1,27 @@
 body {
     margin: 20px;
 }
-header h1 {
-    text-align: center;
+nav ul{
+    display: flex;
+    justify-content: center;
+    width: 100%;
     background-color: darkslategray;
+    flex-direction: row;
+    list-style-type: none;
+}
+nav a{
     color: #d2cece;
+    text-decoration: none;
+    font-size: 25px;
+}
+li{
+    margin: 20px;
+    padding: 20px;
+}
+#titulo{
+    color: #234141;
+    text-align: center;
+    font-size: 50px;
 }
 main{
     display: flex;
@@ -24,4 +41,25 @@ main{
     text-align: center;
 }
 
+.misionVision{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
 
+/*Footer:*/
+footer {
+    display: flex;
+    width: 100%;
+    background-color: darkslategray;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+footer img {
+    width: 50px;
+}
+footer p {
+    color: #d2cece;
+    font-size: 20px;
+}
