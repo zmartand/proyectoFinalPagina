@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b4eecb-ef10-4db8-a777-c8fb55841162" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instagram_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logo_de_Facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sobreNos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp_logo_icon_186881.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -34,18 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zara Martín\Downloads\proyectoFinalPagina" />
+      <recent name="C:\Users\Zara Martín\Downloads\proyectoFinalPagina\.idea" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709823272471</updated>
       <workItem from="1709823274279" duration="6694000" />
-      <workItem from="1710148402706" duration="934000" />
+      <workItem from="1710148402706" duration="1714000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1709826251017</created>
@@ -87,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710149208288</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="style container3 y footer">
+      <created>1710149373370</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710149373370</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +112,7 @@
     <MESSAGE value="html modificaciones" />
     <MESSAGE value="style cabecera" />
     <MESSAGE value="style container2" />
-    <option name="LAST_COMMIT_MESSAGE" value="style container2" />
+    <MESSAGE value="style container3 y footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="style container3 y footer" />
   </component>
 </project>

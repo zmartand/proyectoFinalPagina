@@ -53,7 +53,7 @@ li{
 .parrafoCont3{
     margin: 20px;
 }
-
+/*Footer:*/
 footer {
     display: flex;
     width: 100%;
@@ -62,4 +62,10 @@ footer {
     justify-content: space-around;
 }
 
-
+footer img {
+    width: 50px;
+}
+footer p {
+    color: #d2cece;
+    font-size: 20px;
+}
