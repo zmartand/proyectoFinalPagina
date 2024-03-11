@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b4eecb-ef10-4db8-a777-c8fb55841162" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instagram_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logo_de_Facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sobreNos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp_logo_icon_186881.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Galapagos_Islands_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/Galapagos_Islands_.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instagram_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/Instagram_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logo_de_Facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/Logo_de_Facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazonia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/amazonia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/costa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/costa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galapagos.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/galapagos.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sierra.png" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/sierra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sobreNos.html" beforeDir="false" afterPath="$PROJECT_DIR$/sobreNos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sobreNosStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/sobreNosStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp_logo_icon_186881.png" beforeDir="false" afterPath="$PROJECT_DIR$/imagenes/whatsapp_logo_icon_186881.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,18 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zara Martín\Downloads\proyectoFinalPagina\imagenes" />
       <recent name="C:\Users\Zara Martín\Downloads\proyectoFinalPagina" />
       <recent name="C:\Users\Zara Martín\Downloads\proyectoFinalPagina\.idea" />
     </key>
@@ -64,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1709823272471</updated>
       <workItem from="1709823274279" duration="6694000" />
-      <workItem from="1710148402706" duration="1714000" />
+      <workItem from="1710148402706" duration="1751000" />
+      <workItem from="1710175808771" duration="3164000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1709826251017</created>
@@ -101,7 +107,35 @@
       <option name="project" value="LOCAL" />
       <updated>1710149373370</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="cambios footer">
+      <created>1710156255252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710156255253</updated>
+    </task>
+    <task id="LOCAL-00007" summary="quienes somos html seccion1">
+      <created>1710176804320</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710176804320</updated>
+    </task>
+    <task id="LOCAL-00008" summary="quienes somos html seccion2 y 3">
+      <created>1710177428626</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710177428626</updated>
+    </task>
+    <task id="LOCAL-00009" summary="quienes somos">
+      <created>1710178436523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710178436523</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +147,10 @@
     <MESSAGE value="style cabecera" />
     <MESSAGE value="style container2" />
     <MESSAGE value="style container3 y footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="style container3 y footer" />
+    <MESSAGE value="cambios footer" />
+    <MESSAGE value="quienes somos html seccion1" />
+    <MESSAGE value="quienes somos html seccion2 y 3" />
+    <MESSAGE value="quienes somos" />
+    <option name="LAST_COMMIT_MESSAGE" value="quienes somos" />
   </component>
 </project>
