@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709823272471</updated>
       <workItem from="1709823274279" duration="6694000" />
-      <workItem from="1710148402706" duration="708000" />
+      <workItem from="1710148402706" duration="934000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1709826251017</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710149021984</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="style container2">
+      <created>1710149208288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710149208288</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +97,7 @@
     <MESSAGE value="index" />
     <MESSAGE value="html modificaciones" />
     <MESSAGE value="style cabecera" />
-    <option name="LAST_COMMIT_MESSAGE" value="style cabecera" />
+    <MESSAGE value="style container2" />
+    <option name="LAST_COMMIT_MESSAGE" value="style container2" />
   </component>
 </project>
