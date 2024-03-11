@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+}
+header h1 {
+    text-align: center;
+    background-color: darkslategray;
+    color: #d2cece;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedorValores{
+    display: flex;
+    border: 3px solid darkslategray;
+    border-radius: 20px;
+    padding: 10px;
+}
+.contenedorValores div{
+    background-color: rgba(103, 166, 166, 0.5);
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+
