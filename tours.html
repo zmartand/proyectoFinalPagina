@@ -17,5 +17,69 @@
       </ul>
     </nav>
   </header>
+  <main>
+    <!--Diferentes tours-->
+    <div class="Container2">
+      <section>
+        <h2>Visitar la mitad del mundo</h2>
+        <p></p>
+        <div class="imagenContainer2">
+          <div>
+            <h3>Visitar la mitad del mundo</h3>
+            <img src="tour1.jpg" alt="">
+          </div>
+          <div>
+            <h3>Visitar la mitad del mundo</h3>
+            <img src="tour2.jpg" alt="">
+          </div>
+          <div>
+            <h3>Visitar la mitad del mundo</h3>
+            <img src="tour3.jpg" alt="">
+          </div>
+          <div>
+            <h3>Visitar la mitad del mundo</h3>
+            <img src="tour4.jpg" alt="">
+          </div>
+          <div>
+            <h3>Ver mas</h3>
+            <img src="tour4.jpg" alt="">  <!--Poner href que nos lleve a otro sitio web de ejemplo-->
+          </div>
+        </div>
+      </section>
+    </div>
+
+
+    <section class="formulario">
+      <form action="procesar.php" method="post">
+        <label for="nombre">Nombre:</label>
+        <select id="nombre" name="nombre">
+          <option value="1">Juan</option>
+          <option value="2">Pedro</option>
+          <option value="3">Luis</option>
+        </select><br><br>
+
+        <label for="apellido">Apellido:</label>
+        <input type="text" id="apellido" name="apellido"><br><br>
+
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email"><br><br>
+
+        <label for="telefono">Telefono:</label>
+        <input type="text" id="telefono" name="telefono"><br><br>
+
+        <label for="direccion">Direccion:</label>
+        <textarea id="direccion" name="direccion" rows="2" cols="35"></textarea><br><br>
+        <input type="submit" value="Enviar">
+      </form>
+
+    </section>
+
+
+  </main>
+
+
+
+
+
 </body>
 </html>

@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a9b4eecb-ef10-4db8-a777-c8fb55841162" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sobreNos.html" beforeDir="false" afterPath="$PROJECT_DIR$/sobreNos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sobreNosStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/sobreNosStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tours.html" beforeDir="false" afterPath="$PROJECT_DIR$/tours.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,8 @@
       <updated>1709823272471</updated>
       <workItem from="1709823274279" duration="6694000" />
       <workItem from="1710148402706" duration="1751000" />
-      <workItem from="1710175808771" duration="3900000" />
+      <workItem from="1710175808771" duration="4142000" />
+      <workItem from="1710253496664" duration="402000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1709826251017</created>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710188903254</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="tours header">
+      <created>1710188974266</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710188974266</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +174,7 @@
     <MESSAGE value="sobreNos" />
     <MESSAGE value="cambios" />
     <MESSAGE value="tours html" />
-    <option name="LAST_COMMIT_MESSAGE" value="tours html" />
+    <MESSAGE value="tours header" />
+    <option name="LAST_COMMIT_MESSAGE" value="tours header" />
   </component>
 </project>
