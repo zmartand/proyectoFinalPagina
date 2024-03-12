@@ -59,7 +59,7 @@ footer {
 footer img {
     width: 50px;
 }
-footer p {
+footer p, a {
     color: #d2cece;
     font-size: 20px;
 }
