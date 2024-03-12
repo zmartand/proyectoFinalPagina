@@ -63,3 +63,34 @@ footer p, a {
     color: #d2cece;
     font-size: 20px;
 }
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+    .menu{
+        display: flex;
+        margin: 40px;
+    }
+    .contenedorValores {
+        flex-direction: column;
+    }
+    .misionVision {
+        flex-direction: column;
+    }
+    footer {
+        flex-direction: column;
+    }
+    nav a {
+        font-size: 20px;
+    }
+    #titulo {
+        font-size: 30px;
+    }
+    footer p, a {
+        font-size: 18px;
+    }
+    footer img {
+        width: 40px;
+    }
+}

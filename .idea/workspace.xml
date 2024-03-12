@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a9b4eecb-ef10-4db8-a777-c8fb55841162" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulario.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulario.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/formulario.html" beforeDir="false" afterPath="$PROJECT_DIR$/formulario.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sobreNos.html" beforeDir="false" afterPath="$PROJECT_DIR$/sobreNos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sobreNosStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/sobreNosStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tours.css" beforeDir="false" afterPath="$PROJECT_DIR$/tours.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tours.html" beforeDir="false" afterPath="$PROJECT_DIR$/tours.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,7 @@
       <workItem from="1709823274279" duration="6694000" />
       <workItem from="1710148402706" duration="1751000" />
       <workItem from="1710175808771" duration="4142000" />
-      <workItem from="1710253496664" duration="5010000" />
+      <workItem from="1710253496664" duration="6606000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1709826251017</created>
@@ -189,7 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710255047611</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="formulario">
+      <created>1710258567827</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710258567827</updated>
+    </task>
+    <task id="LOCAL-00019" summary="cambios">
+      <created>1710258593147</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710258593147</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,11 +217,11 @@
     <MESSAGE value="quienes somos html seccion2 y 3" />
     <MESSAGE value="quienes somos" />
     <MESSAGE value="sobreNos" />
-    <MESSAGE value="cambios" />
     <MESSAGE value="tours html" />
     <MESSAGE value="tours header" />
     <MESSAGE value="tours" />
     <MESSAGE value="formulario" />
-    <option name="LAST_COMMIT_MESSAGE" value="formulario" />
+    <MESSAGE value="cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios" />
   </component>
 </project>
