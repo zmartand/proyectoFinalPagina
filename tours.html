@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+  <link rel="stylesheet" href="tours.css">
 </head>
 <body>
 <!--Añadir formulario aqui-->
@@ -21,23 +22,23 @@
     <!--Diferentes tours-->
     <div class="Container2">
       <section>
-        <h2>Visitar la mitad del mundo</h2>
+        <h2>Tours</h2>
         <p></p>
         <div class="imagenContainer2">
           <div>
-            <h3>Visitar la mitad del mundo</h3>
+            <h3>Tour de un día a la isla Floreana con snorkel</h3>
             <img src="tour1.jpg" alt="">
           </div>
           <div>
-            <h3>Visitar la mitad del mundo</h3>
+            <h3>City Tour Privado y Personalizado de Quito Teleferico y Mitad del Mundo</h3>
             <img src="tour2.jpg" alt="">
           </div>
           <div>
-            <h3>Visitar la mitad del mundo</h3>
+            <h3>2 días completos explorando la Amazonía ecuatoriana</h3>
             <img src="tour3.jpg" alt="">
           </div>
           <div>
-            <h3>Visitar la mitad del mundo</h3>
+            <h3>Cotopaxi y Quilotoa con servicio de recogida y traslado de vuelta</h3>
             <img src="tour4.jpg" alt="">
           </div>
           <div>
@@ -51,15 +52,16 @@
 
     <section class="formulario">
       <form action="procesar.php" method="post">
-        <label for="nombre">Nombre:</label>
-        <select id="nombre" name="nombre">
-          <option value="1">Juan</option>
-          <option value="2">Pedro</option>
-          <option value="3">Luis</option>
+        <label for="region">Region:</label>
+        <select id="region" name="region">
+          <option value="1">Costa</option>
+          <option value="2">Sierra</option>
+          <option value="3">Amazonía</option>
+          <option value="3">Islas galápagos</option>
         </select><br><br>
 
-        <label for="apellido">Apellido:</label>
-        <input type="text" id="apellido" name="apellido"><br><br>
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre"><br><br>
 
         <label for="email">Email:</label>
         <input type="text" id="email" name="email"><br><br>
@@ -67,8 +69,8 @@
         <label for="telefono">Telefono:</label>
         <input type="text" id="telefono" name="telefono"><br><br>
 
-        <label for="direccion">Direccion:</label>
-        <textarea id="direccion" name="direccion" rows="2" cols="35"></textarea><br><br>
+        <label for="solicitud">Escriba su solicitud:</label>
+        <textarea id="solicitud" name="solicitud" rows="2" cols="35"></textarea><br><br>
         <input type="submit" value="Enviar">
       </form>
 

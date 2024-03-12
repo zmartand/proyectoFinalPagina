@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a9b4eecb-ef10-4db8-a777-c8fb55841162" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sobreNosStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/sobreNosStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tours.css" beforeDir="false" afterPath="$PROJECT_DIR$/tours.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tours.html" beforeDir="false" afterPath="$PROJECT_DIR$/tours.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -62,7 +62,7 @@
       <workItem from="1709823274279" duration="6694000" />
       <workItem from="1710148402706" duration="1751000" />
       <workItem from="1710175808771" duration="4142000" />
-      <workItem from="1710253496664" duration="402000" />
+      <workItem from="1710253496664" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1709826251017</created>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710188974266</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="tours">
+      <created>1710253979271</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710253979271</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +182,7 @@
     <MESSAGE value="cambios" />
     <MESSAGE value="tours html" />
     <MESSAGE value="tours header" />
-    <option name="LAST_COMMIT_MESSAGE" value="tours header" />
+    <MESSAGE value="tours" />
+    <option name="LAST_COMMIT_MESSAGE" value="tours" />
   </component>
 </project>
