@@ -69,3 +69,29 @@ footer p, a {
     color: #d2cece;
     font-size: 20px;
 }
+
+@media (max-width: 768px) {
+    .menu li a{
+        font-size: 20px;
+    }
+
+    .menu{
+        display: flex;
+        justify-content: space-around;
+    }
+    .menu ul{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .imagenContainer2{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .section1Footer p, .section2Footer p, .section3Footer p{
+        font-size: 13px;
+    }
+
+}

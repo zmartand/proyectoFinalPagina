@@ -67,3 +67,19 @@ footer p, a {
     color: #d2cece;
     font-size: 20px;
 }
+
+@media (max-width: 768px) {
+    .menu li a{
+        font-size: 20px;
+    }
+
+    .menu{
+        display: flex;
+        justify-content: space-around;
+    }
+    .menu ul{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+}
