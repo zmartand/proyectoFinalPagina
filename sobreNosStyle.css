@@ -78,4 +78,24 @@ footer p, a {
         padding-right: 40px;
     }
 
+    .section1Footer p, .section2Footer p, .section3Footer p, .section2Footer div a{
+        font-size: 13px;
+    }
+    footer{
+        display: flex;
+        flex-direction: row;
+    }
+    .section1Footer img{
+        width:20px;
+    }
+    .section1Footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section1Footer, .section2Footer, .section3Footer{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
 }

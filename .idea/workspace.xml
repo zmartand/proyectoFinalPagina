@@ -4,6 +4,7 @@
     <list default="true" id="a9b4eecb-ef10-4db8-a777-c8fb55841162" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/formulario.css" beforeDir="false" afterPath="$PROJECT_DIR$/formulario.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sobreNosStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/sobreNosStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tours.css" beforeDir="false" afterPath="$PROJECT_DIR$/tours.css" afterDir="false" />
@@ -67,7 +68,7 @@
       <workItem from="1710253496664" duration="6661000" />
       <workItem from="1710323446759" duration="4092000" />
       <workItem from="1710331558413" duration="552000" />
-      <workItem from="1710533995880" duration="969000" />
+      <workItem from="1710533995880" duration="1595000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1709826251017</created>
@@ -216,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710260181672</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="movil">
+      <created>1710534982014</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710534982014</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +247,7 @@
     <MESSAGE value="formulario" />
     <MESSAGE value="responsive sobre nosotros" />
     <MESSAGE value="cambios" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambios" />
+    <MESSAGE value="movil" />
+    <option name="LAST_COMMIT_MESSAGE" value="movil" />
   </component>
 </project>
